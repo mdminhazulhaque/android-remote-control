@@ -2,9 +2,11 @@ Remote Control
 ==============
 
 A socket based Android application to control computer cursor.
-[PC application is available here.](https://github.com/minhazul-haque/RemoteControl-server)
+
+PC server is available at [android-remote-control-server](https://github.com/mdminhazulhaque/android-remote-control-server)
 
 ## Screenshot ##
+
 ![Remote Control](http://i.imgur.com/LLafdq7.png)
 
 ## Requirment ##
